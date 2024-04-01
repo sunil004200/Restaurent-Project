@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+}
+.navbar ul{
+    display: flex;
+    gap: 20px;
+}
+ul li{
+    list-style: none;
+}
+    .Item 1 {
+        color: #323f4b;
+        font-family: "Roboto";
+      }
+      #Item2 {
+        color: #323f4b;
+        font-family: "Roboto";
+      }
+      #navItem3 {
+        color: #323f4b;
+        font-family: "Roboto";
+      }
+      #navItem4 {
+        color: #323f4b;
+        font-family: "Roboto";
+      }
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222;
+  }
+  
